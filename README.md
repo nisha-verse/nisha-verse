@@ -27,15 +27,41 @@
 
 ---
 
+
 ## ⚡ Technologies & Tools
 
+### 💻 Programming Languages
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,tensorflow,pytorch,git,github,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
 </div>
 
----
+### 🤖 AI & Machine Learning
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep_Learning-00BFFF?style=for-the-badge" />
+</div>
+
+### 🌐 Web Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,streamlit,react,nodejs,fastapi&theme=dark" />
+</div>
+
+### 🗄️ Databases & Cloud Platforms
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" />
+</div>
+
+### 🛠️ Developer Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+</div>
+
 
 ## 🚀 Featured Projects
 
